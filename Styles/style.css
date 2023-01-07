@@ -1,0 +1,197 @@
+/* Heading styles */
+* {
+  margin: 0;
+  font-family: cursive;
+}
+body {
+  text-align: center;
+}
+.head {
+  background-image: url("../images/donation13.jpg");
+  background-repeat: no-repeat;
+  background-color: gray;
+  background-size: cover;
+  background-blend-mode: hard-light;
+}
+.heading {
+  font-size: 70px;
+  font-weight: 700;
+  padding-top: 150px;
+  padding: 150px 220px 0px 220px;
+  color: white;
+  text-align: center;
+}
+.para-one {
+  font-size: 18px;
+  color: white;
+  margin: 10px 350px 25px 350px;
+  text-align: center;
+  text-shadow: 10 10 15px;
+}
+.btn-details {
+  background-color: rgb(202, 80, 80);
+  color: white;
+  padding: 18px 25px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 150px;
+}
+.btn-details:hover {
+  background-color: rgb(255, 0, 0);
+  cursor: pointer;
+}
+main {
+  text-align: center;
+}
+div {
+  align-items: center;
+}
+.heading-one {
+  font-size: 40px;
+  margin-top: 120px;
+}
+.para-two {
+  color: gray;
+  font-size: 20px;
+  margin: 10px 350px 35px 350px;
+}
+.amount {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+.button {
+  padding: 25px;
+  color: rgb(0, 0, 0);
+  background-color: rgba(206, 206, 206, 0.13);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.button:hover {
+  background-color: rgb(255, 238, 238);
+  border: 1px solid rgb(255, 157, 173);
+  border-radius: 5px;
+  color: rgb(252, 163, 177);
+}
+.input {
+  border: none;
+  border-bottom: 1px solid rgb(216, 216, 216);
+  padding-top: 5x;
+  margin: 100px 0 25px 0;
+  font-size: 25px;
+}
+.manual-amount {
+  display: block;
+}
+.heading-two {
+  font-size: 40px;
+}
+.chamber {
+  text-align: left;
+  display: flex;
+  gap: 35px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.chamber .chamber-details1 {
+  background-color: skyblue;
+  padding: 50px 20px 35px 18px;
+}
+.chamber .chamber-details2 {
+  background-color: lightpink;
+  padding: 50px 20px 35px 18px;
+}
+.chamber .chamber-details3 {
+  background-color: lightyellow;
+  padding: 50px 20px 35px 18px;
+}
+.hone {
+  font-size: 25px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.pone {
+  color: gray;
+  font-size: 20px;
+}
+.chambertwo {
+  margin: 100px 180px 50px 150px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.htwo, .hthree{
+  font-size: 40px;
+}
+.pthree{
+
+}
+.ptwo, .pthree{
+  padding-top: 5px;
+  font-size: 20px;
+  color: gray;
+  padding-bottom: 15px;
+}
+.chamberfour {
+  display: flex;
+  gap: 35px;
+  margin: 100px 180px 50px 150px;
+
+}
+.chamberthree{
+    text-align: left;
+}
+.hfour{
+  font: 700;
+  font-size: 35px;
+}
+.pfour {
+  margin-left: 200px;
+  margin-right: 200px;
+  font-size: 20px;
+  color: gray;
+  margin-bottom: 40px;
+}
+.chamberfive {
+  align-items: center;
+  background-color: rgb(255, 243, 219);
+  margin: 40px;
+}
+.inp {
+  border: none;
+  padding: 20px 25px;
+  background-color: rgb(236, 236, 236);
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+.btn {
+  background-color: rgb(202, 80, 80);
+  color: white;
+  padding: 12px 25px 18px 25px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+}
+.btnone{
+    background-color: rgb(202, 80, 80);
+    color: white;
+    padding: 12px 25px 18px 25px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin:0  80px 80px 0;
+}
+.foot{
+    background-color: black;
+    padding: 25px;
+}
+.footone{
+    color: rgb(238, 178, 178);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+.foottwo{
+    color: white;
+    padding: 10px;
+}
